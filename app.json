@@ -1,5 +1,5 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "ARFileStreamBot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "5588022743:AAFa-L86phH--KjAhxgFlzJNSrRwlv8T4no"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
